@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Projeto Ânimo</title>
+	<atom:link href="https://ianvct12.github.io/projetoanimo/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ianvct12.github.io/projetoanimo</link>
+	<description>Um site com muitas novidades!</description>
+	<lastBuildDate>Sun, 17 Mar 2024 19:51:27 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://ianvct12.github.io/projetoanimo/wp-content/uploads/2024/03/cropped-cropped-trab-george.drawio-32x32.png</url>
+	<title>Projeto Ânimo</title>
+	<link>https://ianvct12.github.io/projetoanimo</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Como Lidar com Projetos</title>
+		<link>https://ianvct12.github.io/projetoanimo/como-lidar-com-projetos/</link>
+					<comments>https://ianvct12.github.io/projetoanimo/como-lidar-com-projetos/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 19:51:27 +0000</pubDate>
+				<category><![CDATA[Contratos]]></category>
+		<guid isPermaLink="false">https://ianvct12.github.io/projetoanimo/?p=182</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet. Est iure minus in atque impedit aut quasi enim hic rerum labore est dolor nesciunt. Quo minima voluptates et itaque nemo aut quasi aperiam qui totam nobis vel quos dolorum. Ut dolorem enim est consequatur provident id nesciunt voluptas sit dignissimos perferendis non fugit recusandae rem molestias sint. Non eveniet magni est dolores omnis est modi numquam! Est quos adipisci ad quia corrupti ea veritatis nulla. Sit vitae eaque At [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://ianvct12.github.io/projetoanimo/como-lidar-com-projetos/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Desvendando o Mundo da Propriedade Intelectual</title>
+		<link>https://ianvct12.github.io/projetoanimo/desvendando-o-mundo-da-propriedade-intelectual/</link>
+					<comments>https://ianvct12.github.io/projetoanimo/desvendando-o-mundo-da-propriedade-intelectual/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 19:48:48 +0000</pubDate>
+				<category><![CDATA[Contratos]]></category>
+		<guid isPermaLink="false">https://ianvct12.github.io/projetoanimo/?p=177</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet. Est iure minus in atque impedit aut quasi enim hic rerum labore est dolor nesciunt. Quo minima voluptates et itaque nemo aut quasi aperiam qui totam nobis vel quos dolorum. Ut dolorem enim est consequatur provident id nesciunt voluptas sit dignissimos perferendis non fugit recusandae rem molestias sint. Non eveniet magni est dolores omnis est modi numquam! Est quos adipisci ad quia corrupti ea veritatis nulla. Sit vitae eaque At [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://ianvct12.github.io/projetoanimo/desvendando-o-mundo-da-propriedade-intelectual/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mediação e Resolução Alternativa de Conflitos: Uma abordagem prática</title>
+		<link>https://ianvct12.github.io/projetoanimo/mediacao-e-resolucao-alternativa-de-conflitos-uma-abordagem-pratica/</link>
+					<comments>https://ianvct12.github.io/projetoanimo/mediacao-e-resolucao-alternativa-de-conflitos-uma-abordagem-pratica/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 19:33:44 +0000</pubDate>
+				<category><![CDATA[Direito Trabalhista]]></category>
+		<guid isPermaLink="false">https://ianvct12.github.io/projetoanimo/?p=169</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet. Et repudiandae nesciunt aut excepturi quisquam hic alias tempora qui nesciunt dolores et consequatur consequatur hic cupiditate molestiae sed omnis iste! Qui quia consequuntur quo adipisci consectetur qui voluptates eaque ut consequuntur earum 33 accusantium magni. Ut rerum eligendi ex iusto commodi quo illum minima et blanditiis nihil. Ut consequatur assumenda est molestiae rerum sit molestiae voluptatem. Quo enim dicta et voluptatibus autem aut amet harum. Est explicabo nostrum aut [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://ianvct12.github.io/projetoanimo/mediacao-e-resolucao-alternativa-de-conflitos-uma-abordagem-pratica/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Direito Trabalhista &#8211; Projeto Ânimo</title>
+	<atom:link href="https://ianvct12.github.io/projetoanimo/category/direito-trabalhista/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ianvct12.github.io/projetoanimo</link>
+	<description>Um site com muitas novidades!</description>
+	<lastBuildDate>Sun, 17 Mar 2024 19:33:44 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
+
+<image>
+	<url>https://ianvct12.github.io/projetoanimo/wp-content/uploads/2024/03/cropped-cropped-trab-george.drawio-32x32.png</url>
+	<title>Direito Trabalhista &#8211; Projeto Ânimo</title>
+	<link>https://ianvct12.github.io/projetoanimo</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Mediação e Resolução Alternativa de Conflitos: Uma abordagem prática</title>
+		<link>https://ianvct12.github.io/projetoanimo/mediacao-e-resolucao-alternativa-de-conflitos-uma-abordagem-pratica/</link>
+					<comments>https://ianvct12.github.io/projetoanimo/mediacao-e-resolucao-alternativa-de-conflitos-uma-abordagem-pratica/#respond</comments>
+		
+		<dc:creator><![CDATA[root]]></dc:creator>
+		<pubDate>Sun, 17 Mar 2024 19:33:44 +0000</pubDate>
+				<category><![CDATA[Direito Trabalhista]]></category>
+		<guid isPermaLink="false">https://ianvct12.github.io/projetoanimo/?p=169</guid>
+
+					<description><![CDATA[Lorem ipsum dolor sit amet. Et repudiandae nesciunt aut excepturi quisquam hic alias tempora qui nesciunt dolores et consequatur consequatur hic cupiditate molestiae sed omnis iste! Qui quia consequuntur quo adipisci consectetur qui voluptates eaque ut consequuntur earum 33 accusantium magni. Ut rerum eligendi ex iusto commodi quo illum minima et blanditiis nihil. Ut consequatur assumenda est molestiae rerum sit molestiae voluptatem. Quo enim dicta et voluptatibus autem aut amet harum. Est explicabo nostrum aut [&#8230;]]]></description>
+		
+					<wfw:commentRss>https://ianvct12.github.io/projetoanimo/mediacao-e-resolucao-alternativa-de-conflitos-uma-abordagem-pratica/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
